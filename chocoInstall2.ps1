@@ -1,8 +1,7 @@
 #Install Software
-choco install googlechrome -y
+choco install vscode -y
 
 #choco install git.install -y
-#choco install vscode -y
 #choco install azure-cli -y
 #choco install powershell-core -y
 
