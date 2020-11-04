@@ -12,7 +12,7 @@ choco install vscode -y
 #choco install sql-server-management-studio -y
 
 #Visual Studio 2019 Community
-choco install visualstudio2019community -y
+#choco install visualstudio2019community -y
 
 #SQL SSIS
 #choco install ssis-vs2019 -y
