@@ -1,9 +1,11 @@
 #Install Software
 choco install vscode -y
+choco install googlechrome -y
 
 #choco install git.install -y
 #choco install azure-cli -y
 #choco install powershell-core -y
+#choco install dotnetcore -y
 
 #choco install python3 -y
 #choco install nodejs.install -y
