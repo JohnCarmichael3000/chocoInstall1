@@ -1,6 +1,7 @@
 #Install Software
 choco install vscode -y
 choco install googlechrome -y
+choco install office2019proplus -y
 
 #choco install git.install -y
 #choco install azure-cli -y
